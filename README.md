@@ -1,5 +1,6 @@
-
 # Лаборатория тестирования. Проект: «ReWord»
+![lime_logo](https://user-images.githubusercontent.com/43685544/115969565-2f03bd00-a546-11eb-9786-297eee5a3013.png)
+![image](https://user-images.githubusercontent.com/43685544/115969572-388d2500-a546-11eb-9b6b-93523753cb44.png)
 
 В данном проекте команда должна протестировать мобильное приложение ReWord, составить чек-лист, тест-кейсы и описать найденные баги. 
 ReWord - это приложение для изучения иностранных языков. ([ссылка на Play Market](https://play.google.com/store/apps/details?id=ru.poas.englishwords&hl=ru&gl=US))
