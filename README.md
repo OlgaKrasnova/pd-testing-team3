@@ -2,7 +2,7 @@
 # Проект: «ReWord» (подпроект лаборатории тестирования)
 
 В данном проекте команда должна протестировать мобильное приложение ReWord, составить чек-лист, тест-кейсы и описать найденные баги. 
-ReWord - это приложение для изучения иностранных языков. ([ссылка на Play Market])(https://play.google.com/store/apps/details?id=ru.poas.englishwords&hl=ru&gl=US)
+ReWord - это приложение для изучения иностранных языков. ([ссылка на Play Market](https://play.google.com/store/apps/details?id=ru.poas.englishwords&hl=ru&gl=US))
 
 Целью проекта является тестирование мобильного приложения Reword.
 
