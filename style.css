@@ -1,0 +1,53 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav, footer  {
+    background: #007929 !important;
+}
+
+main {
+    background: #63DD8D;
+}
+
+section {
+    margin: 5%;
+    padding: 5%;
+    background: #ffffff;
+    border-radius: 5px;
+}
+
+p {
+    text-indent: 10%;
+}
+
+footer, footer a {
+    color: white;
+}
+
+footer a {
+    text-decoration: underline;
+}
+
+.card-img-overlay {
+    margin: 10% !important;
+    margin-left: 50% !important;
+}
+
+.btn-outline-secondary {
+    color: #00BB3F;
+    border-color: #00BB3F;
+}
+
+.btn-outline-secondary:hover {
+    color: #fff;
+    background-color: #00BB3F;
+    border-color: #00BB3F;
+}
+
+.btn-outline-secondary.focus, .btn-outline-secondary:focus {
+    box-shadow: 0 0 0 0.2rem #00BB3F;
+}
+.navbar-brand{
+    font-weight: bold;
+}
