@@ -28,7 +28,7 @@
 - [Краснова О.В.](krasnova.md)
 - [Гусев Ф.А.](gusev.md)
 - [Ласкин В.Д.](laskin.md)
-- [Ласкин В.Д.](malkina.md)
+- [Малькина А.А.](malkina.md)
 
 
 
